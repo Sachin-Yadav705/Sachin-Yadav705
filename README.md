@@ -15,7 +15,7 @@
 ----
 <h3>
   
-- 🌱 I’m currently learning **M E R N**   <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **M E R N**   <img align="right" style="width:12rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Sachin-Yadav705?tab=repositories" target="blank">
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="SachinYadav" height="40" width="50"/>Sachin kumar</a>
