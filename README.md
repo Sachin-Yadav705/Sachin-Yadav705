@@ -1,3 +1,4 @@
+![logo](header.png)
 <h1 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">< Developers/>, I'm SACHIN KUMAR</h1>
 
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
