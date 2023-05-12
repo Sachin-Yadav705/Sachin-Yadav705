@@ -21,7 +21,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Sachin-Yadav705?tab=repositories" target="blank">
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="SachinYadav" height="40" width="50"/>Sachin kumar</a>
 
-- 💬 Ask me about **Java, Spring, Hibernate,**
+- 💬 Ask me about **Javascript, React, Node, Next.js**
 
 - 📫 How to reach me <img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="SachinYadav" height="40" width="40" />**Kumar9891sachin@gmail.com**
 
